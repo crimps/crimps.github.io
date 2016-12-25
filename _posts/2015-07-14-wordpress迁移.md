@@ -10,14 +10,12 @@ categories:
 - IT
 twitter_text: ''
 ---
-#wordpress整体迁移
 
 之前团队博客布署在公司的服务器上，之后由于公司网络资源的整合及访问权限的调整，最后决定将团队博客迁移到云服务器。在此记录一下迁移过程中遇到的一些坑。
 
-###wordpress迁移思路
+### wordpress迁移思路
 
-######1、备份wordpress网站程序
-
+###### 1、备份wordpress网站程序
 通过ftp将wordpress网站程序下载到本地电脑备用（遇见问题：Tip1）
 ######2、备份数据库数据
 
