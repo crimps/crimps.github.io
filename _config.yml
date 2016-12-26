@@ -1,6 +1,6 @@
 # Site settings
 title: crimps - Developer
-description: "A blog about lorem ipsum ..."
+description: "..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://crimps.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
@@ -39,11 +39,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
+  - name: 
+    url: https://github.com/
+  - name: 
+    url: https://github.com/
   - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+    url: https://github.com/ 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
