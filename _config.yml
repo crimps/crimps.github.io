@@ -43,7 +43,7 @@ projects:
     url: https://github.com/
   - name: 
     url: https://github.com/
-  - name: generator-capybara
+  - name: 
     url: https://github.com/ 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
