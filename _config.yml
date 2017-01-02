@@ -39,8 +39,8 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: 
-    url: https://github.com/
+  - name: leetcode
+    url: https://github.com/crimps/leetCode
   - name: 
     url: https://github.com/
   - name: 
