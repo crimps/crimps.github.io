@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Java
+    - Mac OS
 ---
 ## 问题描述
 又手贱将系统更新到10.12，早上打开app的进候提示"您需要安装旧 Java SE 6 运行环境才能打开 XXX"。因于此app的版本比较旧，当前系统JVM版本为1.8，修改app的info.plist文件，将JVMVersion改成当前版本，并没有什么作用。

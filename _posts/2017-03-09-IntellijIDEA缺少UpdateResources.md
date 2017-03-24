@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Java
+    - IDEA
 ---
 ## 问题描述
 Intellij IDEA 更改代码热布署时Update选项只有三个："Update classes"、"Redeploy"、"Restart server"。更新页面文件时无法热布署，只能重新启动相当的耗时。  
