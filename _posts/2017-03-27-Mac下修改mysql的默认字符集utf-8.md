@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - MySQL
+    - Mac OS
 ---
 JDBC连接MySQL数据入库，中文出现乱码，在客户端插入中文数据都正常。JDBC设置编码为UTF-8问题依然存在，就可以确定是由于MySQL服务的默认编码不为UTF-8引起的。
 ### 1、检查默认安装的MySQL的字符集
