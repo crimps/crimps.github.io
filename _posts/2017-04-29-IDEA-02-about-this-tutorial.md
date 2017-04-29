@@ -9,6 +9,9 @@ catalog: true
 tags:
     - IDEA
 ---
+```
+原文出处：https://github.com/judasn/IntelliJ-IDEA-Tutorial 
+```
 # 关于
 
 ## 学习前提
