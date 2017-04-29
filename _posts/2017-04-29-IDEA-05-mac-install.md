@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IDEA系列 目录"
+title:      "IDEA系列（五） Mac下安装"
 subtitle:   ""
 date:       2017-04-29 12:00:05
 author:     "Crimps"
