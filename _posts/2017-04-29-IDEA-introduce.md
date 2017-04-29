@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IDEA系列（一）-介绍"
+title:      "IDEA系列（一）介绍"
 subtitle:   ""
 date:       2017-04-29 12:00:01
 author:     "Crimps"
