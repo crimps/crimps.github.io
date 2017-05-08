@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IDEA系列 目录"
+title:      "IDEA系列 （十）IntelliJ IDEA 主题、字体、编辑区主题、文件编码修改、乱码问题"
 subtitle:   ""
 date:       2017-04-29 12:00:10
 author:     "Crimps"
