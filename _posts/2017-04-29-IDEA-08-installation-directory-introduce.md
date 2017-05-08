@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "IDEA系列 目录"
+title:      "IDEA系列（八）  相关核心文件和目录介绍"
 subtitle:   ""
-date:       2017-04-29 12:00:00
+date:       2017-04-29 12:00:08
 author:     "Crimps"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
