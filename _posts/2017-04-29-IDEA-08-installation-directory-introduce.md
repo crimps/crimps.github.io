@@ -16,7 +16,7 @@ tags:
 
 ## 安装目录介绍
 
-![安装目录介绍](/img/viii-a-installation-directory-1.jpg)
+![安装目录介绍](/img/in-post/viii-a-installation-directory-1.jpg)
 
 > * IntelliJ IDEA 的安装目录并不复杂，上图为最常改动的 bin 目录，经常会改动的文件或是必须介绍就是如图红色框中的几个。
 > * `idea.exe` 文件是 IntelliJ IDEA 32 位的可行执行文件，IntelliJ IDEA 安装完默认发送到桌面的也就是这个执行文件的快捷方式。
@@ -27,7 +27,7 @@ tags:
 
 ## 设置目录介绍
 
-![设置目录介绍](/img/viii-a-installation-directory-2.jpg)
+![设置目录介绍](/img/in-post/viii-a-installation-directory-2.jpg)
 
 > * 不管你使用的是哪个操作系统，IntelliJ IDEA 的设置目录命名是统一的、有规律：.IntelliJIdea14。其中 14 表示大版本号，如果你电脑上还同时装有 13 的版本，那则还应该会有一个：`.IntelliJIdea13` 的设置目录，其他版本道理一样。 
 > * 在三大主流的操作系统上，你只要对整个硬盘进行搜索：`.IntelliJIdea14`，即可找到，无需可以去记忆到底生成在哪个目录下。
@@ -37,7 +37,7 @@ tags:
 
 ## 配置文件常见修改内容说明
 
-![JVM 配置说明](/img/viii-a-configuration-files-1.jpg)
+![JVM 配置说明](/img/in-post/viii-a-configuration-files-1.jpg)
 
 > * 上图是 64 位可执行文件的 JVM 配置文件内容，如果你是 32 位的系统你应该修改的是 `idea.exe.vmoptions` 文件里面的内容，但是由于 32 位系统内存一般都是 2G 左右的，所以也没有多大空间可以调整，所以一般无需调整的。
 > * 修改的原则主要是根据自己机器的内存情况来判断的，我个人是建议 8G 以下的机子或是静态页面开发者都是无需修改的。如果你是开发大型项目、Java 项目或是 Android 项目，并且内存大于 8G，建议进行修改，常修改的就是下面 4 个参数，我这里主要以我的机子会例进行建议，每个人机子情况不一，这里也只是做一个引子，最好的调整方式是你可以根据 jconsole 这类工具进行观察后个性化调整。
@@ -47,7 +47,7 @@ tags:
 > > * `-XX:MaxPermSize=350m`，16G 内存的机器可尝试设置为 `-XX:MaxPermSize=500m`
 > > * `-XX:ReservedCodeCacheSize=225m`，16G 内存的机器可尝试设置为 `-XX:ReservedCodeCacheSize=500m`
 
-![JVM 配置说明](/img/viii-a-configuration-files-2.jpg)
+![JVM 配置说明](/img/in-post/viii-a-configuration-files-2.jpg)
 
 > * 上图是 IntelliJ IDEA 一些属性配置，没有 32 位和 64 位之分，修改原则主要根据个人对 IntelliJ IDEA 的个性化配置情况来分析。常修改的就是下面 4 个参数：
 >
@@ -58,7 +58,7 @@ tags:
 
 ## 设置目录进行多台设置同步化处理
 
-![JVM 配置说明](/img/viii-a-setting-synchronize-1.jpg)
+![JVM 配置说明](/img/in-post/viii-a-setting-synchronize-1.jpg)
 
 > * 上图是我的个性化配置目录，我是存放在 F 盘，同时该目录也是在 360 同步盘中。这样做主要是为了让我的多台设置可以同时使用一个个性化配置，保证个人开发习惯，额外作用就是在服务器上一个备份作用。
 > * 设置方式很简单，修改 `idea.properties` 属性文件中的 `idea.config.path` 值，我的机器为：`idea.config.path=F:/360SycDir/idea_config/config`
@@ -76,4 +76,4 @@ tags:
 
 # Mac 下修改 VM 参数
 
-![JVM 配置说明](/img/viii-b-mac-vm-settings-1.jpg)
+![JVM 配置说明](/img/in-post/viii-b-mac-vm-settings-1.jpg)
