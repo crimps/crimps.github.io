@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IDEA系列（二十二） Eclipse的Java Web项目环境找寻"
+title:      "IDEA系列（二十二） Eclipse的Java Web项目环境搭建"
 subtitle:   ""
 date:       2017-04-29 12:00:22
 author:     "Crimps"
