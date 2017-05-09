@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IDEA系列 编译方式介绍"
+title:      "IDEA系列（十三） 编译方式介绍"
 subtitle:   ""
 date:       2017-04-29 12:00:13
 author:     "Crimps"
