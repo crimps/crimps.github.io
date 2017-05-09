@@ -2,7 +2,7 @@
 layout:     post
 title:      "IDEA系列（三十） 常用设置-2"
 subtitle:   ""
-date:       2017-04-29 12:00:00
+date:       2017-04-29 12:00:30
 author:     "Crimps"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
