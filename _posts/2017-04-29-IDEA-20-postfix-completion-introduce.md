@@ -2,7 +2,7 @@
 layout:     post
 title:      "IDEA系列（二十） Postfix Completion讲解"
 subtitle:   ""
-date:       2017-04-29 12:00:00
+date:       2017-04-29 12:00:20
 author:     "Crimps"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
