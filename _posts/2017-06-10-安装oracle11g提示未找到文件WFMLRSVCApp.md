@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2017-06-10-安装oracle11g提示未找到文件WFMLRSVCApp"
+title:      "安装oracle11g提示未找到文件WFMLRSVCApp"
 subtitle:   ""
 date:       2017-06-10 12:00:40
 author:     "Crimps"
